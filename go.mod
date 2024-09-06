@@ -1,5 +1,5 @@
 module github.com/sfomuseum/go-lookup
 
-go 1.12
+go 1.23
 
-require github.com/aaronland/go-roster v0.0.2
+require github.com/aaronland/go-roster v1.0.0
